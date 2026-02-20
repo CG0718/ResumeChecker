@@ -1,6 +1,5 @@
 # ResumeChecker
 GenAI for GenZ Challenge 2 | Resume Checker
-Here is a simple and professional README for the **ResumeChecker** repository:
 
 ---
 
@@ -34,7 +33,7 @@ cd ResumeChecker
 2. **Install dependencies:**
 Make sure you have Python installed. You may need to install libraries for PDF processing (like `PyPDF2`) and your chosen GenAI SDK (e.g., `google-generativeai`).
 ```bash
-pip install PyPDF2 google-generativeai
+pip install pymupdf google-generativeai
 
 ```
 
@@ -57,8 +56,3 @@ python Compress_and_Match.py
 
 ```
 
-
-
-## 📝 License
-
-This project was created as part of the GenAI for GenZ Challenge. Please refer to the challenge guidelines for usage and distribution.
